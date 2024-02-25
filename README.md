@@ -2,7 +2,7 @@
 - 👀 I’m interested in degod
 - 🌱 I’m currently learning bot fixing
 - 💞️ I’m looking to collaborate on bot！or on bidding bot
-
+btw This twitter account does not meet the requirements to use /Reach" and the logging out on the getreach.xyz dashboard should now be fixed
 <!---
 xianzai27200/xianzai27200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
